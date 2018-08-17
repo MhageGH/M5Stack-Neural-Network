@@ -19,5 +19,5 @@ handwritten digits recognition by M5Stack<br>
 ## About Neural Network
 Neural Network are computing systems vaguely inspired by the biological neural networks that constitute animal brains.
 M5Stack converts image data of handwritten digits to corresponding number by Neural Network.
-This code uses the weight coefficient matrix of a earnt neural network. <br>
+This code uses the weight coefficient matrix (W1, b1, W2, b2, W3, b3) of a earnt neural network. <br>
 ![calc](doc/calc.png)
